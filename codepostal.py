@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding:Utf-8 -*- 
 
-# script python utilisant l'API geo.api.gouv.fr
-#afin de retourner le code postal d'uen ville envoyé en argument.
-#mazarie29@openmailbox.org
+# script python3 utilisant l'API geo.api.gouv.fr
+# afin de retourner le code postal d'une ville envoyé en argument.
+# mazarie29@openmailbox.org
 
 import sys
 import json
-import urllib
 import urllib.request
 
 ### Fonctions
